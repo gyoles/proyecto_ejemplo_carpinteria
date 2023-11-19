@@ -66,7 +66,6 @@ namespace CarpinteriaFront
             {
                 int nro = int.Parse(dgvPresupuestos.CurrentRow.Cells["colNro"].Value.ToString());
                 new FrmDetallesPresupuesto(nro).ShowDialog();
-                //hola mundo
             }
         }
 
