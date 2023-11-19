@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarpinteriaFront
-build_property.ProjectDir = G:\Gabriel\Programación\UTN\Tercer_Cuatrimestre\Programación_II\TUP_PROGII2023\Carpintería webAPI+Front\CarpinteriaSLN\CarpinteriaFront\
+build_property.ProjectDir = G:\Gabriel\Programación\UTN\Tercer_Cuatrimestre\proyecto_ejemplo_carpinteria\CarpinteriaSLN\CarpinteriaFront\

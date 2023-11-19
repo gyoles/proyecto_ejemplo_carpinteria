@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sm7QQqXgGXlAp1eAoG01t+A28diWkDipZv17sI4mSgFtYaGvh9j8U0nimS/dVUcKd+6h3JgYsNAyu28M36W/gA==",
+  "dgSpecHash": "s2Pc2tUxHEX/E+pe1ImOpV8bIGqkSVUuK2e/lVzcXNoFI70nrMLW1mop0sk27v+OcEJ772pmUir6ptO1Sz0fag==",
   "success": true,
-  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
+  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

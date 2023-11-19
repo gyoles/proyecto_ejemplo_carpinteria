@@ -706,11 +706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
+      "projectUniqueName": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
       "projectName": "ApiCarpinteria",
-      "projectPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
+      "projectPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\ApiCarpinteria\\ApiCarpinteria.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\ApiCarpinteria\\obj\\",
+      "outputPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\ApiCarpinteria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -727,8 +727,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj": {
-              "projectPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj"
+            "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj": {
+              "projectPath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj"
             }
           }
         }

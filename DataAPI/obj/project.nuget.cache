@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qGrLnt9dkNfBhNhWw4rrsAPqQIslm1UIRpApitMWVIJZUmWh5Yei+DaA+mcKSbSFBZQ1iUPs/8DsJyzOZzcswg==",
+  "dgSpecHash": "0PggwQfYK8GDXj7SKReReJeCiXu2+6ARpi/8twH+1HqurBy166wHmojZ/97yVW33/lHq2rfBAkL3R85KiZaThA==",
   "success": true,
-  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\Programación_II\\TUP_PROGII2023\\Carpintería webAPI+Front\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj",
+  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Tercer_Cuatrimestre\\proyecto_ejemplo_carpinteria\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
